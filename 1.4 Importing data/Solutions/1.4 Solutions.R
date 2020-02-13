@@ -45,3 +45,13 @@ hap = rbind(hap, happiness_2019)
 #5. write to csv called 'happiness_solved.csv'
 write.csv(hap, 'happiness_solved.csv')
 
+
+
+
+
+
+
+
+
+
+
